@@ -1,0 +1,46 @@
+
+A) 
+	CH+ 	CH-	Total
+SO +	 300	200	500
+SO -	 200	300	500
+Total	 500	500	1000
+
+	I) Whether there is association between the exposure and outcome
+Odd ratio (OR)=(Odds of CH+within those who are SO+)/(Odds of CH-within those who are SO-)
+
+	OR=((300*300)/(200*200))             ͢      OR=90000/40000
+OR=9/4
+OR=2.25
+Chi square (X^2) test
+
+X^2=((1000[(300*300)-(200*200)]^2)/(500)(500)(500)(500) )
+X^2=([1000(-50000)^2)]/[(500)(500)(500)(500)])
+X^2=40
+It can be seen that there is a positive association (OR=2.25) between the nature of physical activities and the coronary Heart Disease (CHD)
+
+II) 
+CH+	CH-	Total
+At least 60 years	140	70	210
+Less than 60 years	45	45	90
+Total	185	115		
+
+Whether there is association between the age and outcome in the absence of the physical activity 
+Odd ratio (OR)=(Odds of CH+within those who are at least 60 years old)/(Odds of CH-within those who are below 60 years old)
+
+	OR=((140*45)/(45*70))             ͢      OR=6300/3150
+OR=2
+It can be seen that there is a positive association (OR=2) between the age and the coronary Heart Disease (CHD) in the absence of the nature of physical activities (exposure).
+
+III) 	It can be seen that the odd ratios for OR1 and OR2 are similar but different from the crude OR value obtained. 
+
+	
+	B) 
+  At least 60 years 		Less than 60 years
+	CH+	CH-		CH+	CH-
+SO+	160	130		70	135
+SO-	255	155		155	255
+OR1=0.75			0R2=0.85		
+
+Based on the above results, it can be said that age is a confounder.
+
+
